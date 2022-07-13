@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+header {
+  display: flex;
+}
+
+.header {
+  background-color: rgb(50, 167, 145);
+}
