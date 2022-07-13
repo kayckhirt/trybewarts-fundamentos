@@ -17,3 +17,11 @@ form {
   justify-content: center;
   align-self: center;
 }
+
+main {
+  display: flex;
+}
+
+#evaluation-form {
+  width: 675px;
+}
