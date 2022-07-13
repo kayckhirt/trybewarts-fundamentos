@@ -20,11 +20,10 @@ header {
 
 main {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
 }
 
 #trybewarts-forms-logo {
-  align-content: flex-end;
   height: 500px;
   align-self: flex-end;
 }
@@ -33,4 +32,5 @@ main {
   display: flex;
   width: 675px;
   flex-direction: column;
+  justify-content: flex-start;
 }
