@@ -11,3 +11,9 @@ header {
 form {
   display: flex;
 }
+
+#trybewarts-header-title {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
