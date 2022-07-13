@@ -20,9 +20,17 @@ form {
 
 main {
   display: flex;
+  flex-direction: column;
 }
 
 #evaluation-form {
+  align-self: flex-start;
   width: 675px;
   flex-direction: column;
+}
+
+#trybewarts-forms-logo {
+  align-content: flex-end;
+  height: 500px;
+  align-self: flex-end;
 }
