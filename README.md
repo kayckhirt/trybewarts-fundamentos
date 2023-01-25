@@ -1,13 +1,9 @@
 # :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Projeito feito em dupla com o colega de turma Lucas de Oliveira Batista.
+Os requisitos foram feitos juntos por ligacação com compartilhamento de tela, este projeto foi feito no primeiro módulo da trybe (Fundamentos).
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+O projeto consiste em um formúlario com HTML, CSS e Javascript puro, onde após enviar os dados do formulário, ele retorna os dados inseridos.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Por ser um projeto básico o unico mode de conseguir ter acesso ao login da página inicial é utilizando:
+Usuário: tryber@teste.com
+Senha: 123456
